@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="encited mark">
+  <title>encited — square mark</title>
+  <rect width="200" height="200" rx="40" fill="#064CFF"></rect>
+  <g transform="translate(100 100)" stroke="#FFFFFF" stroke-width="14.5" stroke-linecap="round">
+    <line y1="-55" y2="55"></line>
+    <line y1="-55" y2="55" transform="rotate(30)"></line>
+    <line y1="-55" y2="55" transform="rotate(60)"></line>
+    <line y1="-55" y2="55" transform="rotate(90)"></line>
+    <line y1="-55" y2="55" transform="rotate(120)"></line>
+    <line y1="-55" y2="55" transform="rotate(150)"></line>
+  </g>
+</svg>

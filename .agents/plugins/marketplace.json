@@ -1,0 +1,20 @@
+{
+  "name": "encited",
+  "interface": {
+    "displayName": "Encited"
+  },
+  "plugins": [
+    {
+      "name": "encited",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Encited/ai-plugin.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

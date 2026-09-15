@@ -1,0 +1,20 @@
+{
+  "name": "encited",
+  "owner": { "name": "Encited", "email": "team@encited.com", "url": "https://encited.com" },
+  "description": "Official Encited plugin for AI clients. SEO and AI-search intelligence for your own site, from your AI coding tool.",
+  "plugins": [
+    {
+      "name": "encited",
+      "displayName": "Encited",
+      "source": "./",
+      "description": "Ask your AI coding agent about your own site's SEO and AI-search data and act on the answers: crawl logs, index status, Search Console, technical audits, keyword research, AI visibility, content workflows, and client reports, via the hosted Encited MCP.",
+      "version": "1.0.0",
+      "author": { "name": "Encited", "email": "team@encited.com", "url": "https://encited.com" },
+      "homepage": "https://encited.com/seo-mcp",
+      "repository": "https://github.com/Encited/ai-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["encited", "seo", "ai-visibility", "search-console", "crawl-logs", "keyword-research", "site-audit", "prerendering"]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "encited": {
+      "type": "http",
+      "url": "https://encited.com/api/mcp"
+    }
+  }
+}

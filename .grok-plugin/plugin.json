@@ -1,0 +1,15 @@
+{
+  "name": "encited",
+  "version": "1.0.0",
+  "description": "Ask questions about your own site's SEO and AI-search data and act on the answers: crawl logs, index status, Search Console, technical audits, keyword research, AI visibility, content workflows, and client reports, via the hosted Encited MCP at encited.com. Sign in with an Encited account on first connect.",
+  "author": {
+    "name": "Encited",
+    "email": "team@encited.com",
+    "url": "https://encited.com"
+  },
+  "homepage": "https://encited.com/seo-mcp",
+  "repository": "https://github.com/Encited/ai-plugin",
+  "license": "MIT",
+  "keywords": ["encited", "encited mcp", "encited seo", "encited ai search"],
+  "logo": "assets/logo.svg"
+}
