@@ -2,11 +2,28 @@
   "name": "encited",
   "version": "1.0.0",
   "description": "Ask your AI coding agent about your own site's SEO and AI-search data and act on the answers: crawl logs, index status, Search Console, technical audits, keyword research, AI visibility, content workflows, and client reports, via the hosted Encited MCP.",
-  "author": { "name": "Encited", "email": "team@encited.com", "url": "https://encited.com" },
+  "author": {
+    "name": "Encited",
+    "email": "team@encited.com",
+    "url": "https://encited.com"
+  },
   "homepage": "https://encited.com/seo-mcp",
   "repository": "https://github.com/Encited/ai-plugin",
   "license": "MIT",
-  "keywords": ["encited", "seo", "ai-visibility", "search-console", "crawl-logs", "keyword-research", "site-audit", "prerendering"],
+  "keywords": [
+    "encited",
+    "seo",
+    "aeo",
+    "geo",
+    "google search console",
+    "gsc",
+    "ai search analytics",
+    "ai visibility",
+    "keyword research",
+    "site audit",
+    "crawl logs",
+    "prerendering"
+  ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
@@ -15,7 +32,10 @@
     "longDescription": "Ask your AI coding agent about your own site's SEO and AI-search data and act on the answers: crawl logs, index status, Search Console, technical audits, keyword research, AI visibility, content workflows, and client reports, via the hosted Encited MCP. Sign in with your Encited account on first use.",
     "developerName": "Encited",
     "category": "Productivity",
-    "capabilities": ["Read", "Write"],
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
     "websiteURL": "https://encited.com",
     "privacyPolicyURL": "https://encited.com/privacy",
     "termsOfServiceURL": "https://encited.com/terms",

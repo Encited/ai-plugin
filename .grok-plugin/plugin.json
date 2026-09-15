@@ -10,6 +10,19 @@
   "homepage": "https://encited.com/seo-mcp",
   "repository": "https://github.com/Encited/ai-plugin",
   "license": "MIT",
-  "keywords": ["encited", "encited mcp", "encited seo", "encited ai search"],
+  "keywords": [
+    "encited",
+    "seo",
+    "aeo",
+    "geo",
+    "google search console",
+    "gsc",
+    "ai search analytics",
+    "ai visibility",
+    "keyword research",
+    "site audit",
+    "crawl logs",
+    "prerendering"
+  ],
   "logo": "assets/logo.svg"
 }
